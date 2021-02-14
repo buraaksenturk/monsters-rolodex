@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Monsters Rolodex Project Photo
+<img src="https://i.hizliresim.com/2x2dec.png" width='750px' />
+
+# Monsters
+<a href="https://robohash.org/">ROBOHASH</a>
+
+# Users
+<a href="https://jsonplaceholder.typicode.com/users/">{JSON} Placeholder</a>
+
+# Installation
+- `git clone https://github.com/srpsatish/React-monster.git`
+- `cd React-monster`
+- `yarn`
+- `yarn start`
+
 ## Available Scripts
 
 In the project directory, you can run:
